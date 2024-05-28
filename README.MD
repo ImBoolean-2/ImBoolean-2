@@ -1,15 +1,8 @@
 # Valentino Valeriano
-
-<img src="resources/file.jpg" width="100" height="100">
-
+<p align="center">
+    <img src="resources/file.jpg" width="100" height="100">
+</p>
 Valentino, also known as ImBoolean-2, is a student at Universidad Autonoma del Peru. He is deeply intrigued by programming and has chosen software engineering as his career path. He is always thinking about the future and what it holds for him and the world of technology.
-
-## Details
-
-- **Location**: Mala - Peru
-- **Timezone**: 01:03 (UTC -05:00)
-- **Steam Profile**: <a href="https://steamcommunity.com/profiles/76561198884125423/"><img src="resources/steam_icon.png" width="25" height="25"></a>
-- **Discord MD**: <a href="Your_Discord_Link"><img src="resources/discord_icon.png" width="25" height="25"></a>
 
 ## Highlights
 
